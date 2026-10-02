@@ -2,7 +2,7 @@
 
 main() {
 
-  create file imput stream
+  create file input stream
   open data.csv file
   read the file line by line
 
